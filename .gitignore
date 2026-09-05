@@ -33,6 +33,10 @@ venv.bak/
 .env.local
 *.secret
 
+# ADK
+.adk/
+**/.adk/
+
 # IDEs & Editors
 .vscode/
 .idea/
