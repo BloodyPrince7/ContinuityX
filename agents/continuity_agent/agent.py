@@ -3,7 +3,7 @@ from google.adk.agents import Agent
 
 root_agent = Agent(
     name="continuity_analyst",
-    model="gemini-2.5-flash",
+    model="gemini-3.6-flash",
     description="Analyzes film scenes for continuity-relevant information.",
     instruction="""
     You are a film continuity analyst.
